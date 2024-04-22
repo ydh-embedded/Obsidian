@@ -1,3 +1,5 @@
 {
-  "accentColor": "#4709d7"
+  "accentColor": "#4709d7",
+  "theme": "obsidian",
+  "cssTheme": "Material Ocean"
 }
